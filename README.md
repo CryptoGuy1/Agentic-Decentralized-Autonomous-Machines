@@ -572,9 +572,9 @@ If you use ADAM in your research, please cite:
 
 ## 📧 Contact
 
-- **Author:** Your Name
-- **Email:** your.email@university.edu
-- **Paper:** [Link to paper](your-paper-link)
+- **Author:** Benjamin Nweke
+- **Email:** bnweke@uwyo.edu
+- **Paper:** [Link to paper](paper-link)
 - **Issues:** [GitHub Issues](https://github.com/your-repo/adam/issues)
 
 ---
