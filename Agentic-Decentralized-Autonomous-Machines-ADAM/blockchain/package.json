@@ -1,0 +1,31 @@
+{
+  "name": "adam-blockchain-governance",
+  "version": "1.0.0",
+  "description": "Blockchain governance system for ADAM multi-agent system",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network hardhat",
+    "deploy:fides": "hardhat run scripts/deploy.js --network fidesinnova",
+    "console:local": "hardhat console --network hardhat",
+    "console:fides": "hardhat console --network fidesinnova"
+  },
+  "keywords": [
+    "blockchain",
+    "governance",
+    "multi-agent",
+    "IoT",
+    "DePIN"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "dotenv": "^16.3.1"
+  }
+}
